@@ -12,8 +12,8 @@
 
 - you were not my friend
 
-- I am at home 
+- I am at home
 
-- I work 
+- I work
 
-- I worked 
+- I worked
