@@ -15,3 +15,12 @@ if (isset($_GET['width']) AND isset($_GET['height'])) {
   exit();
 }
 ?>
+
+
+Exemplo #2 Imprimindo dados de nosso formulário
+
+Hi <?php echo htmlspecialchars($_POST['name']); ?>.
+You are <?php echo (int)$_POST['age']; ?> years old.
+Um exemplo de saída deste script seria:
+
+Hi Joe. You are 22 years old.
