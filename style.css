@@ -84,3 +84,8 @@ padding: 6%;
             .pushable:focus:not(:focus-visible) {
               outline: none;
             }
+            p{
+            text-align: center;
+            text-shadow: 2px 3px 4px ;
+            
+            }
